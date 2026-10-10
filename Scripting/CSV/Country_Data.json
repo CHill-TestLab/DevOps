@@ -1,0 +1,62 @@
+[
+    [
+        "Australia",
+        "Canberra",
+        "Australia",
+        "English"
+    ],
+    [
+        "China",
+        "Beijing",
+        "Asia",
+        "Mandarin"
+    ],
+    [
+        "Germany",
+        "Berlin",
+        "Europe",
+        "German"
+    ],
+    [
+        "France",
+        "Paris",
+        "Europe",
+        "French"
+    ],
+    [
+        "Brazil",
+        "Brazilia",
+        "South America",
+        "Portugese"
+    ],
+    {
+        "Country": "Australia",
+        "Capital": "Canberra",
+        "Continent": "Australia",
+        "Language": "English"
+    },
+    {
+        "Country": "China",
+        "Capital": "Beijing",
+        "Continent": "Asia",
+        "Language": "Mandarin"
+    },
+    {
+        "Country": "Germany",
+        "Capital": "Berlin",
+        "Continent": "Europe",
+        "Language": "German"
+    },
+    {
+        "Country": "France",
+        "Capital": "Paris",
+        "Continent": "Europe",
+        "Language": "French"
+    },
+    {
+        "Country": "Brazil",
+        "Capital": "Brazilia",
+        "Continent": "South America",
+        "Language": "Portugese"
+    }
+]
